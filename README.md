@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BinhITCrm&label=Profile%20views&color=0e75b6&style=flat" alt="BinhITCrm" />
+  <img src="https://komarev.com/ghpvc/?username=BinhTranIT&label=Profile%20views&color=0e75b6&style=flat" alt="BinhTranIT" />
 </p>
 
 ---
 
 I'm **Binh Tran**, a third-year Computer Science student at Ho Chi Minh City University of Technology, specializing in Artificial Intelligence. I'm passionate about learning and building intelligent systems that solve real-world problems. 🧑‍💻
 
-- 📫 How to reach me: [binhtran.crmonline@gmail.com](mailto:binhtran.crmonline@gmail.com)
+- 📫 How to reach me: [binhtt.cs@gmail.com](mailto:binhtt.cs@gmail.com)
 
 ---
 
@@ -42,9 +42,9 @@ I'm **Binh Tran**, a third-year Computer Science student at Ho Chi Minh City Uni
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinhITCrm&show_icons=true&theme=radical" alt="BinhITCrm GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BinhTranIT&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinhITCrm&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinhTranIT&layout=compact&theme=radical" />
 </p>
